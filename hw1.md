@@ -4,10 +4,10 @@
 
 ## Main points
 
-1. Education
-2. Hobbies
-3. Family
-4. Main goals
+1. [Education](#education)
+2. [Hobbies](#hobbies)
+3. [Family](#family)
+4. [Main goals](#main-goals)
 
 ---
 * demonstration *italics*
