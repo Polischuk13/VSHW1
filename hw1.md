@@ -1,4 +1,11 @@
-# My summary
+# Summary
 
-*My name is Artem*
+*By Artem*
+
+## Main points
+
+1. Education
+2. Family
+3. Hobbies
+4. Main goals
 
