@@ -37,3 +37,9 @@
     * Wife
     * Doughter
 ---
+### Main goals
+* Complete education in GeekBrains
+* Find new job
+* Change my life
+---
+ 
