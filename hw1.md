@@ -23,3 +23,9 @@
 * Education in process
     * GeekBrains
 ---
+### Hobbies
+* Fitness
+* Football
+* Wakesurfing
+* Music
+---
