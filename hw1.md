@@ -5,8 +5,8 @@
 ## Main points
 
 1. Education
-2. Family
-3. Hobbies
+2. Hobbies
+3. Family
 4. Main goals
 
 ---
@@ -29,3 +29,4 @@
 * Wakesurfing
 * Music
 ---
+
