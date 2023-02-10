@@ -14,4 +14,11 @@
 * demonstration ~~crossed out text~~
 * demonstration **bold**
 ---
-
+### Education
+* Completed education
+    * School
+    * School of music
+    * Moscow City Academy of Law
+* Education in process
+    * GeekBrains
+---
