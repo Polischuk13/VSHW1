@@ -14,6 +14,7 @@
 * demonstration ~~crossed out text~~
 * demonstration **bold**
 * demonstratin 1.title with numbers
+* demonstration ``` code block 
 ---
 ### Education
 * Completed education
@@ -42,4 +43,3 @@
 * Find new job
 * Change my life
 ---
- 
