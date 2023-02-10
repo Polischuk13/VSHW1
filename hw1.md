@@ -9,3 +9,9 @@
 3. Hobbies
 4. Main goals
 
+---
+* demonstration *italics*
+* demonstration ~~crossed out text~~
+* demonstration **bold**
+---
+
