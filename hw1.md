@@ -14,15 +14,15 @@
 * demonstration ~~crossed out text~~
 * demonstration **bold**
 * demonstratin 1.title with numbers
-* demonstration ``` code block 
+* demonstration ``` code block  
 ---
 ### Education
 * Completed education
-    * School
-    * School of music
-    * Moscow City Academy of Law
+    * [School](https://ru.wikipedia.org/wiki/Школа)
+    * [School of music](https://ru.wikipedia.org/wiki/Детская_музыкальная_школа)
+    * [Moscow City Academy of Law](https://ru.wikipedia.org/wiki/Московский_государственный_юридический_университет)
 * Education in process
-    * GeekBrains
+    * [GeekBrains](https://gb.ru)
 ---
 ### Hobbies
 * Fitness
